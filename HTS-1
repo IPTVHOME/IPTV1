@@ -1,0 +1,149 @@
+#EXTM3U
+
+#EXTINF:1 group-title="KOR", KBS-1
+http://221.167.233.226:9981/play/stream/channel/e5ef07cbf8ecb849077d6c1076ad6205
+#EXTINF:2 group-title="KOR", KBS-2
+http://221.167.233.226:9981/play/stream/channel/9bd1d2a6dcde7697dfe8236f51a1982d
+#EXTINF:3 group-title="KOR", EBS-1
+http://221.167.233.226:9981/play/stream/channel/5ff6affa54ae2d57a6320b64c142b1f3
+#EXTINF:4 group-title="KOR", EBS-2
+http://221.167.233.226:9981/play/stream/channel/1f31e847e0fd7eed1da4dddd39b36d70
+#EXTINF:5 group-title="KOR", SBS
+http://221.167.233.226:9981/play/stream/channel/02e5fd81e29a779bfd826f7529e79c0d
+#EXTINF:6 group-title="KOR", JTBC
+http://132.145.83.248:9981/play/ticket/stream/channel/e83a6602005543d5a98b2532978d63cd
+#EXTINF:7 group-title="KOR", MBC
+http://221.167.233.226:9981/play/stream/channel/5b22144c56d5e431a1ff00d26a08b404
+#EXTINF:8 group-title="KOR", MBN
+http://132.145.83.248:9981/play/ticket/stream/channel/1c610e8070d8402050b5e9bbb2f94403
+#EXTINF:9 group-title="KOR", TV CHOSUN
+http://132.145.83.248:9981/play/ticket/stream/channel/3b0054f7377424e2f606f019bacafb90
+#EXTINF:10 group-title="KOR", CHANNEL A
+http://132.145.83.248:9981/play/ticket/stream/channel/c24f7551a2281ff35763eb73544b2ae4
+#EXTINF:11 group-title="KOR", TVN
+http://122.39.168.6:9981/playlist/channelid//78
+#EXTINF:12 group-title="KOR", M-NET
+http://132.145.80.35:9876/play/ticket/stream/channel/bbd4797776b904aa381b9a2ebd35396a
+#EXTINF:13 group-title="KOR", OCN
+http://122.39.168.6:9981/playlist/channelid//33
+#EXTINF:14 group-title="KOR", OLIVE
+http://132.145.80.35:9876/play/ticket/stream/channel/6cadc49dc91537df1f4dca4644054c81
+#EXTINF:15 group-title="KOR", YTN NEWS
+http://122.39.168.6:9981/playlist/channelid//31
+#EXTINF:16 group-title="KOR", YONHAP NEWS
+http://122.39.168.6:9981/playlist/channelid//30
+#EXTINF:17 group-title="KOR", SBS MTV
+http://132.145.80.35:9876/play/ticket/stream/channel/19170b21516fe44290e3d1afd4ccd49d
+#EXTINF:18 group-title="KOR", SBS FIL
+http://132.145.83.248:9981/play/ticket/stream/channel/10f87be704b463f6d1c596d4234504bf
+#EXTINF:19 group-title="KOR", SBS PLUS
+http://132.145.80.35:9876/play/ticket/stream/channel/e2455feba3cc71c56ddc1f0718870c13
+#EXTINF:20 group-title="KOR", OBS
+http://122.39.168.6:9981/playlist/channelid//61
+#EXTINF:21 group-title="KOR", OCN MOVIES
+http://122.39.168.6:9981/playlist/channelid//38
+#EXTINF:22 group-title="KOR", OCN THRILLS
+http://122.39.168.6:9981/playlist/channelid//13
+#EXTINF:23 group-title="KOR", MPLEX
+http://122.39.168.6:9981/playlist/channelid//56
+#EXTINF:24 group-title="KOR", MBC DRAMA
+http://132.145.80.35:9876/play/ticket/stream/channel/9451b232af16f3c4eb47f9bcc086cafd
+#EXTINF:25 group-title="KOR", KBS DRAMA
+http://132.145.80.35:9876/play/ticket/stream/channel/9eb3425110f2a0c8f10456302fafd1a1
+#EXTINF:26 group-title="KOR", KBS JOY
+http://132.145.80.35:9876/play/ticket/stream/channel/d3e10437d71454e49c365f4ca3d2eea3
+#EXTINF:27 group-title="KOR", CARTOON NETWORK
+http://122.39.168.6:9981/playlist/channelid//10
+#EXTINF:28 group-title="KOR", ANIMAX
+http://122.39.168.6:9981/playlist/channelid//59
+#EXTINF:29 group-title="KOR", SBS NICK
+http://132.145.80.35:9876/play/ticket/stream/channel/15e1354bb15f8ff5d69ea5b2b549db54
+#EXTINF:30 group-title="KOR", ANIONE
+http://132.145.80.35:9876/play/ticket/stream/channel/0ad3f5a061dc6a7443d1233ec56ea325
+
+
+
+#EXTINF:31 group-title="AUS", ABC HD
+http://58.96.43.228:9981/play/stream/channel/1b47ad9dc18d5f6fef303dd1fd0498f4
+#EXTINF:32 group-title="AUS", ABC PLUS
+http://58.96.43.228:9981/play/stream/channel/05260dacef3eac39b951d4f4fa1c72af
+#EXTINF:33 group-title="AUS", ABC ME
+http://58.96.43.228:9981/play/stream/channel/1a520e9abe57be84a8c873db8faf6ba6
+#EXTINF:34 group-title="AUS", ABC NEWS
+http://58.96.43.228:9981/play/stream/channel/86a2484dfcbc50ca7a22e7730079ca3a
+#EXTINF:35 group-title="AUS", SBS HD
+http://58.96.43.228:9981/play/stream/channel/83cc5376fa9b89b55bff9b5c824e3004
+#EXTINF:36 group-title="AUS", SBS VICELAND
+http://58.96.43.228:9981/play/stream/channel/3b44582eb52706e8c3309c8efc3167a9
+#EXTINF:37 group-title="AUS", SEVEN HD
+http://58.96.43.228:9981/play/stream/channel/bb85dfb6d9871224fa2903fcf2ade348
+#EXTINF:38 group-title="AUS", MATE HD
+http://58.96.43.228:9981/play/stream/channel/eb95e1fb66e05d4c8b1054d2c7881c71
+#EXTINF:39 group-title="AUS", NINE HD
+http://58.96.43.228:9981/play/stream/channel/bfa61562baacd1a82ef286facfaa20a6
+#EXTINF:40 group-title="AUS", TEN HD
+http://58.96.43.228:9981/play/stream/channel/fd31f4c081192efd6c156ceeca171e53
+
+
+
+
+#EXTINF:41 group-title="CHN", CCTV-1
+http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:42 group-title="CHN", CCTV-2
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
+#EXTINF:43 group-title="CHN", CCTV-3
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:44 group-title="CHN", CCTV-4
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228156/index.m3u8
+#EXTINF:45 group-title="CHN", CCTV-5
+http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
+#EXTINF:46 group-title="CHN", CCTV-6
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8
+#EXTINF:47 group-title="CHN", CCTV-7
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:48 group-title="CHN", CCTV-8
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228079/index.m3u8
+#EXTINF:49 group-title="CHN", CCTV-9
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:50 group-title="CHN", CCTV-10
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:51 group-title="CHN", CCTV-11
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:52 group-title="CHN", CCTV-12
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:53 group-title="CHN", CCTV-13
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:54 group-title="CHN", CCTV-14
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:55 group-title="CHN", CCTV-15
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:56 group-title="CHN", CCTV-16
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:57 group-title="CHN", CCTV-17
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:58 group-title="CHN", CCTV-5+
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228076/index.m3u8
+#EXTINF:59 group-title="CHN", CCTV-4K
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:60 group-title="CHN", CCTV-8K
+http://[240e:9f:c04f:1::2]/live.gq.miguvideo.com:8080/migu/wd_r1/football/origin7/901/20200430/index.m3u8?&encrypt=
+#EXTINF:61 group-title="CHN", BRTV HD
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
+#EXTINF:62 group-title="CHN", HNTV HD
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228227/index.m3u8
+#EXTINF:63 group-title="CHN", DFTV HD
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228150/index.m3u8
+#EXTINF:64 group-title="CHN", AHTV HD
+http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221228153/index.m3u8
+#EXTINF:65 group-title="CHN", SHTV HD
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228124/index.m3u8
+#EXTINF:66 group-title="CHN", GDTV HD
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228230/index.m3u8
+#EXTINF:67 group-title="CHN", TJTV HD
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228239/index.m3u8
+#EXTINF:68 group-title="CHN", JSTV HD
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228099/index.m3u8
+#EXTINF:69 group-title="CHN", ZJTV HD
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228147/index.m3u8
+#EXTINF:70 group-title="CHN", SZTV HD
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
