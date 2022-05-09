@@ -40,3 +40,14 @@ http://183.89.246.119:8010/play/a00l/index.m3u8
 http://183.89.246.119:8010/play/a00q/index.m3u8
 #EXTINF:20, PPTV HD
 http://183.89.246.119:8010/play/a00s/index.m3u8
+
+#EXTINF:21, HBO HD
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:22, HBO HITS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:23, HBO FAMILY
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:24, HBO SIGNATURE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:25, CINEMAX
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
