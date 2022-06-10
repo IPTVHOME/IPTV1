@@ -1,0 +1,190 @@
+#EXTM3U
+
+#EXTINF:-1, CH-3 HD
+http://183.89.246.119:8010/play/a00n/index.m3u8
+#EXTINF:-1, TV5 HD
+http://183.89.246.119:8010/play/a00u/index.m3u8
+#EXTINF:-1, CH-7 HD
+http://183.89.246.119:8010/play/a00f/index.m3u8
+#EXTINF:-1, ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1, MCOT HD
+http://183.89.246.119:8010/play/a00h/index.m3u8
+#EXTINF:-1, NBT HD
+http://183.89.246.119:8010/play/a009/index.m3u8
+#EXTINF:-1, TPBS HD
+http://183.89.246.119:8010/play/a00j/index.m3u8
+#EXTINF:-1, THAIRATH HD
+http://183.89.246.119:8010/play/a00i/index.m3u8
+#EXTINF:-1, AMARIN HD
+http://183.89.246.119:8010/play/a00r/index.m3u8
+#EXTINF:-1, TPTV
+http://183.89.246.119:8010/play/a00g/index.m3u8
+#EXTINF:-1, ONE HD
+http://183.89.246.119:8010/play/a00e/index.m3u8
+#EXTINF:-1, NATION TV
+http://183.89.246.119:8010/play/a00o/index.m3u8
+#EXTINF:-1, WORKPOINT
+http://183.89.246.119:8010/play/a00c/index.m3u8
+#EXTINF:-1, TRUE4U
+http://183.89.246.119:8010/play/a00d/index.m3u8
+#EXTINF:-1, GMM 25
+http://183.89.246.119:8010/play/a00p/index.m3u8
+#EXTINF:-1, TNN 16
+http://183.89.246.119:8010/play/a00b/index.m3u8
+#EXTINF:-1, T-SPORTS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1, JKN 18
+http://183.89.246.119:8010/play/a00l/index.m3u8
+#EXTINF:-1, MONO 29
+http://183.89.246.119:8010/play/a00q/index.m3u8
+#EXTINF:-1, PPTV HD
+http://183.89.246.119:8010/play/a00s/index.m3u8
+
+
+#EXTINF:-1, TRUE FILM ASIA
+https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8
+#EXTINF:-1, TRUE MOVIE HITS
+https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8
+#EXTINF:-1, TRUE THAIFILM
+https://mediasv.online/stream_live/236_TrueThaiFilmHD/playlist.m3u8
+#EXTINF:-1, TRUE FILM 1
+https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8
+#EXTINF:-1, TRUE FILM 2
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115415
+#EXTINF:-1, TVB XINGHE
+https://mediasv.online/stream_live/235_TVB/playlist.m3u8
+#EXTINF:-1, HBO HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1, HBO SIGNATURE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1, HBO HITS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1, HBO FAMILY
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1, TRUE ASIAN MORE
+https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8
+#EXTINF:-1, TRUE CHINESE MORE
+https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8
+#EXTINF:-1, TRUE KOREAN MORE
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115675
+#EXTINF:-1, 3BB ASIAN
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
+#EXTINF:-1, AXN HD
+https://mediasv.online/stream_live/336_AXN/playlist.m3u8
+#EXTINF:-1, CCM
+https://mediasv.online/stream_live/233_CCM/playlist.m3u8
+#EXTINF:-1, TRUE XZYTE
+https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8
+#EXTINF:-1, ROCK ENTERTAINMENT
+https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8
+#EXTINF:-1, ROCK EXTREME
+https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8
+#EXTINF:-1, GEM
+https://mediasv.online/stream_live/244_GEM/playlist.m3u8
+
+
+
+#EXTINF:-1, DISC HD
+https://mediasv.online/stream_live/562_Discovery/playlist.m3u8
+#EXTINF:-1, NGC HD
+https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115610
+#EXTINF:-1, HISTORY HD
+https://mediasv.online/stream_live/556_History/playlist.m3u8
+#EXTINF:-1, H2 HD
+https://mediasv.online/stream_live/557_H2/playlist.m3u8
+#EXTINF:-1, SAMRUJLOK
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8
+#EXTINF:-1, MYSCI
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8
+#EXTINF:-1, REAL METRO
+https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8
+#EXTINF:-1, BXCITE HD
+https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8
+#EXTINF:-1, NEW EXPLORER
+https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8
+#EXTINF:-1, LOVE NATURE
+https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8
+#EXTINF:-1, KHONGDEE HD
+https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8
+#EXTINF:-1, THAINESE HD
+https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8
+#EXTINF:-1, SWEET HD
+https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8
+#EXTINF:-1, HEART HD
+https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8
+#EXTINF:-1, JUST FUN
+https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115632
+#EXTINF:-1, NICK
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115748
+#EXTINF:-1, NEXT KID
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8
+#EXTINF:-1, ANIPLUS HD
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115609
+
+
+
+#EXTINF:-1, TRUE PREMIER 1
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115759
+#EXTINF:-1, TRUE PREMIER 2
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115762
+#EXTINF:-1, TRUE PREMIER 3
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115511
+#EXTINF:-1, TRUE PREMIER 4
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115513
+#EXTINF:-1, TRUE PREMIER 5
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115525
+#EXTINF:-1, TRUE SPORTS HD
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115531
+#EXTINF:-1, TRUE SPORTS HD2
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115533
+#EXTINF:-1, TRUE SPORTS HD3
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115537
+#EXTINF:-1, GOLF HD
+https://mediasv.online/stream_live/675_GOLF_HD/playlist.m3u8
+#EXTINF:-1, GOLF HD+
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115698
+#EXTINF:-1, 3BB SPORTS 1
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
+#EXTINF:-1, ASTRO SP-1
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115615
+#EXTINF:-1, ASTRO SP-2
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115616
+#EXTINF:-1, ASTRO SP-3
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115617
+#EXTINF:-1, ASTRO SP-4
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115618
+#EXTINF:-1, S VARIETY 1
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39411
+#EXTINF:-1, S VARIETY 2
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39410
+#EXTINF:-1, S VARIETY 3
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39415
+#EXTINF:-1, S VARIETY 4
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39414
+#EXTINF:-1, S ACTION
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39520
+#EXTINF:-1, S FOOTBALL
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39413
+#EXTINF:-1, S EPL
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39408
+#EXTINF:-1, S LALIGA
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39406
+#EXTINF:-1, S MOTOR SPORT
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39412
+#EXTINF:-1, S PSL
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39407
+#EXTINF:-1, S BLITZ
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39519
+#EXTINF:-1, S GRANDSTAND
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39409
+#EXTINF:-1, S RUGBY
+http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/39416
+#EXTINF:-1, RUSH STORIES
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
+#EXTINF:-1, A'LLURE CHANNEL
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
