@@ -22,9 +22,9 @@ https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8
 https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8
 #EXTINF:-1, NEXT KID
 https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8
-#EXTINF:23 tvg-logo="#", BUDSABA HD
+#EXTINF:-1, BUDSABA HD
 https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8
-#EXTINF:25 tvg-logo="#", HERO HD
+#EXTINF:-1, HERO HD
 https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8
 #EXTINF:-1, ANIPLUS HD
 http://ultratv.one:80/b6oxQeKNTb/x0zne3Wp/115609
