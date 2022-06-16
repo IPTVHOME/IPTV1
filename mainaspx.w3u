@@ -1,0 +1,38 @@
+{
+"name" : "IPTVHOME",
+"author" : "www.iptvhome.com",
+"image" : "",
+"url" : "",
+"info" : "📺 ช่องรายการทีวีทั้งไทยและเทศ รับชมฟรีไม่มีรายเดือน 📺",
+
+"groups" :
+[
+
+{
+	"name" : "📺 ทีวีดิจิตอล",
+	"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+	"url" : "",
+	"import": false
+},
+{
+	"name" : "📺 TRUE VISIONS",
+	"image": "https://truevisions.co.th/assets/icons/logo/now-logo.png",
+	"url" : "",
+	"import": false
+},
+{
+	"name" : "📺 GOOD TV",
+	"image": "#",
+	"url" : "",
+	"import": false
+},
+{
+	"name" : "📺 TATA PLAY (BETA)",
+	"image": "#",
+	"url" : "",
+	"import": false
+},
+
+
+]
+}
