@@ -19,7 +19,7 @@ http://183.89.246.119:8010/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" , NATION TV
 http://183.89.246.119:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" , WORKPOINT TV
-https://www.twitch.tv/workpointofficial
+http://183.89.246.119:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" , TRUE 4U
 http://183.89.246.119:8010/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" , GMM 25
@@ -42,8 +42,6 @@ http://183.89.246.119:8010/play/a00r/index.m3u8
 http://183.89.246.119:8010/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" , PPTV HD
 http://183.89.246.119:8010/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/V2H9TV.png" , VOICE TV
-https://www.twitch.tv/voicetv
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png" , DLTV 1
 https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png" , DLTV 2
