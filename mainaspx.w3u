@@ -1,8 +1,8 @@
 {
 "name": "IPTVHOME",
 "author": "www.iptvhome.com",
-"image": "",
-"url": "",
+"image": "https://cdn-icons-png.flaticon.com/512/197/197452.png",
+"url": "https://raw.githubusercontent.com/IPTVHOME/IPTV1/main/mainaspx.w3u",
 "groups": [
 {
 "name": "THAI IPTV",
